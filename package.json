@@ -2,9 +2,9 @@
   "name": "Ejercicio-Trainee-Onready",
   "version": "1.0.0",
   "description": "Ejercicio para Onready Oferta Dev",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "keywords": ["nodejs", "Onready", "ejercicio", "vainillaJS"],
   "author": "Daniel Rivas",

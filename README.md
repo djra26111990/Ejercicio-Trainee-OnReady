@@ -1,4 +1,4 @@
-# VainillJS Proyect for Onready test
+# VainillaJS Proyect for Onready test
 
 This project is made with vainillaJS in NodeJS to run easily.
 
